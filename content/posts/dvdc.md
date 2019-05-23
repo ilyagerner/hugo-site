@@ -2,7 +2,7 @@
 author: "Ilya Gerner"
 date: 2019-05-23
 linktitle: dvdc
-title: Lightning Talk on Visualizing Police Stops in MD, NC, 
+title: Lightning Talk on Visualizing Police Stops in MD, NC, MA 
 categories: [ "Talks" ]
 tags: ["talks", "python", "dataviz", "politics"]
 weight: 10
