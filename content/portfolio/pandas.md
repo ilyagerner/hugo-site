@@ -1,7 +1,7 @@
 ---
 title: "Pandas Policing Project"
 description: "A presentation on exploratory data analysis in Python"
-link: https://github.com/ilyagerner/pandas_policing_tutorial
+link: https://github.com/ilyagerner/pandas
 screenshot: pandas.jpg
 date: '2019-01-19'
 layout: portfolio
